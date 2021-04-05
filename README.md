@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Project Director at @Gizmin
 - 🌱 I’m currently learning NODE, REACT, JAVASCRIPT, NOSQL
-- 💬 Ask me about ERP, SQL, LINX, BUSINESS and PROJECT 
+- 💬 Ask me about ERP, SQL, LINX, BUSINESS & PROJECTS 
 - 📫 How to reach me: sergioc_reis@hotmail.com
