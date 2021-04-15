@@ -1,6 +1,6 @@
 ### FALA PESSOAL, SEJAM MUITO BEM VINDOS AO MEU GIT 👨‍💻👋
 
-## Aqui você encontrar um pouco de meus projetos pessoais aberto sobre, sou um eterno lifelong learning:
+Aqui você vai encontrar um pouco de meus projetos pessoais aberto sobre, sou um eterno lifelong learning:
 
 - Data Science.
 - Machine Learning
